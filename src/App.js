@@ -57,7 +57,7 @@ const App = () => {
   };
   const onRemove = (id) => {
     onInsertToggle();
-    setTodos((todos) => todos.filter((todo = todo.id !== id)));
+    setTodos((todos) => todos.filter((todo) => todo.id !== id));
   };
   const onUpdate = (id, text) => {
     onInsertToggle();
