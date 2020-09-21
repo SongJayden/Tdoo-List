@@ -8,8 +8,12 @@
 
 - Add 
 
-#### Click Add button on right-bottom corner to add new list. Type the title and click add button.
-![Add](https://user-images.githubusercontent.com/8447473/93747177-6f1a5e80-fc4a-11ea-8f46-8f4f127770a0.jpg)
+#### Click Add button on right-bottom corner to add new list. 
+![Add1](https://user-images.githubusercontent.com/8447473/93749390-f9b08d00-fc4d-11ea-8f24-1b32162fd872.jpg)
+
+#### Type the title and click add button.
+![Add2](https://user-images.githubusercontent.com/8447473/93749404-fcab7d80-fc4d-11ea-98d2-8b11f372e0ae.jpg)
+
 
 
 - Edit 
