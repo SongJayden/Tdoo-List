@@ -8,19 +8,20 @@
 
 - Add 
 
+#### Click Add button on right-bottom corner to add new list. Type the title and click add button.
 ![Add](https://user-images.githubusercontent.com/8447473/93747177-6f1a5e80-fc4a-11ea-8f46-8f4f127770a0.jpg)
 
-#### Click Add button on right-bottom corner to add new list. Type the title and click add button.
 
 - Edit 
 
+#### Click the title that we want to edit. 
 ![edit1](https://user-images.githubusercontent.com/8447473/93747914-84dc5380-fc4b-11ea-9bb1-716e3537a5c3.jpg)
 
-#### Click the title that we want to edit. 
 
-![edit2](https://user-images.githubusercontent.com/8447473/93747920-873ead80-fc4b-11ea-9875-8030be210125.jpg)
 
 #### Change title by typing and click Edit button.
+![edit2](https://user-images.githubusercontent.com/8447473/93747920-873ead80-fc4b-11ea-9875-8030be210125.jpg)
+
 
 - Delet
  
