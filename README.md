@@ -24,4 +24,9 @@
 
 
 - Delet
- 
+
+#### Click the title we want to delet. 
+![delet1](https://user-images.githubusercontent.com/8447473/93748907-1a2c1780-fc4d-11ea-8ab2-c3756664e7d3.jpg)
+
+#### Click Delet button to delet from the list.
+![delet2](https://user-images.githubusercontent.com/8447473/93748913-1d270800-fc4d-11ea-942c-a2bd37afddcd.jpg)
