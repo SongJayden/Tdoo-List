@@ -6,16 +6,17 @@
 
 ## Function
 
-- Click 
-
-![TodoClick](https://user-images.githubusercontent.com/8447473/93709975-fa3a1c80-fb96-11ea-87b4-764b7486ff51.png)
-
-
 - Add 
 
-![Screen Shot 2020-09-20 at 10 19 35 PM](https://user-images.githubusercontent.com/8447473/93709817-919e7000-fb95-11ea-8813-22183725e633.png)
+![Add](https://user-images.githubusercontent.com/8447473/93747177-6f1a5e80-fc4a-11ea-8f46-8f4f127770a0.jpg)
+
 
 - Edit 
+
+![edit1](https://user-images.githubusercontent.com/8447473/93747914-84dc5380-fc4b-11ea-9bb1-716e3537a5c3.jpg)
+
+![edit2](https://user-images.githubusercontent.com/8447473/93747920-873ead80-fc4b-11ea-9875-8030be210125.jpg)
+
 
 - Delet
  
