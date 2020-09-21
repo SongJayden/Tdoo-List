@@ -1,6 +1,8 @@
 # Todo-List App with React
 ## Overview
-![Todolist](https://user-images.githubusercontent.com/8447473/93709634-e0e3a100-fb93-11ea-8fb6-d02e833f572a.gif)
+
+![TodoPreview](https://user-images.githubusercontent.com/8447473/93746183-cf100580-fc48-11ea-8817-0167b7f34b09.gif)
+
 
 ## Function
 
